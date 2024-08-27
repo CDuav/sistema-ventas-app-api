@@ -7,8 +7,8 @@ const options = {
             title: "Sistema Ventas API",
             description: "Documentación API",
             contact: {
-                name: "Eric Domenzain",
-                url: "https://github.com"
+                name: "C_Dua",
+                url: "https://github.com/CDuav"
             },
             servers: [{
                 url: "http://localhost:3000",
